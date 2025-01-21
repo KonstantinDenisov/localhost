@@ -128,14 +128,14 @@
 
 ]
 >
-<Report ver="2.0" tmZone="RTZ 2 (зима)">
-<General productName="Vugen" productVer="2021" os="" host="INIT_GVD_SELF"><DocLocation><![CDATA[C:\Users\masha\OneDrive\Документы\VuGen\Scripts\WebHttpHtml12]]></DocLocation></General>
+<Report ver="2.0" tmZone="Беларусь (зима)">
+<General productName="Vugen" productVer="2021" os="" host="WIN-DCUT7QIED28"><DocLocation><![CDATA[E:\Банк\ДЗ\4\rep\DZ_4_LR\WebHttpHtml12]]></DocLocation></General>
 <Doc rID="T1"   productName= "Vugen"  >
 <DName><![CDATA[WebHttpHtml12]]></DName>
 <Res><![CDATA[result1]]></Res>
 <Action rID="T2">
 <AName><![CDATA[vuser_init]]></AName>
-<Summary sTime="21.01.2025 - 18:37:39" eTime="21.01.2025 - 18:37:39" passed="0" failed="0" warnings="0" ></Summary>
+<Summary sTime="21.01.2025 - 20:46:44" eTime="21.01.2025 - 20:46:44" passed="0" failed="0" warnings="0" ></Summary>
 <NodeArgs eType="StartAction" icon="2" nRep="5" >
 <Disp><![CDATA[vuser_init Summary]]></Disp>
 </NodeArgs>
@@ -144,47 +144,44 @@
 <Action rID="T4">
 <AName><![CDATA[Action]]></AName>
 <Step rID="T5">
-<Obj plainTxt="False" ><![CDATA[Url: 192.168.88.127:8090]]></Obj>
-<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[21.01.2025 - 18:37:40]]></Time>
-<TimeTick>1737473860</TimeTick>
-<NodeArgs eType="General" icon="4" nRep="9" status="Passed" >
-<Disp><![CDATA[Url: 192.168.88.127:8090]]></Disp>
+<Obj plainTxt="False" ><![CDATA[Url: 192.168.13.127:8090]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#FF0031>Step failed</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[21.01.2025 - 20:47:05]]></Time>
+<TimeTick>1737481625</TimeTick>
+<NodeArgs eType="General" icon="4" nRep="9" status="Failed" >
+<Disp><![CDATA[Url: 192.168.13.127:8090]]></Disp>
 <BtmPane vType="HTMLSNSH" >
 <Path><![CDATA[\Iteration1\t1.inf]]></Path>
 </BtmPane>
 </NodeArgs>
 </Step>
 <Step rID="T6">
-<Obj plainTxt="False" ><![CDATA[Submit Data: calculate]]></Obj>
-<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[21.01.2025 - 18:37:40]]></Time>
-<TimeTick>1737473860</TimeTick>
-<NodeArgs eType="General" icon="5" nRep="10" status="Passed" >
-<Disp><![CDATA[Submit Data: calculate]]></Disp>
-<BtmPane vType="HTMLSNSH" >
-<Path><![CDATA[\Iteration1\t2.inf]]></Path>
-</BtmPane>
+<Obj plainTxt="False" ><![CDATA[Script Aborted!]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#FF0031>Failed</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[21.01.2025 - 20:47:05]]></Time>
+<TimeTick>1737481625</TimeTick>
+<NodeArgs eType="General" icon="1" nRep="10" status="Failed" >
+<Disp><![CDATA[Script Aborted!]]></Disp>
 </NodeArgs>
 </Step>
-<Summary sTime="21.01.2025 - 18:37:39" eTime="21.01.2025 - 18:37:40" passed="2" failed="0" warnings="0" ></Summary>
-<NodeArgs eType="StartAction" icon="2" nRep="8" status="Passed" >
+<Summary sTime="21.01.2025 - 20:46:44" eTime="21.01.2025 - 20:47:05" passed="0" failed="2" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="8" status="Failed" >
 <Disp><![CDATA[Action Summary]]></Disp>
 </NodeArgs>
 </Action>
-<NodeArgs eType="StartIteration" icon="3" nRep="7" status="Passed" >
+<NodeArgs eType="StartIteration" icon="3" nRep="7" status="Failed" >
 <Disp><![CDATA[WebHttpHtml12 Iteration 1 (Row 1)]]></Disp>
 </NodeArgs>
 </DIter>
 <Action rID="T7">
 <AName><![CDATA[vuser_end]]></AName>
-<Summary sTime="21.01.2025 - 18:37:40" eTime="21.01.2025 - 18:37:40" passed="0" failed="0" warnings="0" ></Summary>
+<Summary sTime="21.01.2025 - 20:47:05" eTime="21.01.2025 - 20:47:05" passed="0" failed="0" warnings="0" ></Summary>
 <NodeArgs eType="StartAction" icon="2" nRep="13" >
 <Disp><![CDATA[vuser_end Summary]]></Disp>
 </NodeArgs>
 </Action>
-<Summary sTime="21.01.2025 - 18:37:39" eTime="21.01.2025 - 18:37:40" passed="2" failed="0" warnings="0" ></Summary>
-<NodeArgs eType="StartTest" icon="1" nRep="4" status="Passed" >
+<Summary sTime="21.01.2025 - 20:46:44" eTime="21.01.2025 - 20:47:05" passed="0" failed="2" warnings="0" ></Summary>
+<NodeArgs eType="StartTest" icon="1" nRep="4" status="Failed" >
 <Disp><![CDATA[Test WebHttpHtml12 Summary]]></Disp>
 </NodeArgs>
 </Doc>

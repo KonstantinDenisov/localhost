@@ -2,8 +2,8 @@ Action()
 {
 	lr_start_transaction("1_startPage");
 
-	web_url("192.168.88.127:8090", 
-		"URL=http://192.168.88.127:8090/", 
+	web_url("192.168.13.127:8090", 
+		"URL=http://192.168.13.127:8090/", 
 		"TargetFrame=", 
 		"Resource=0", 
 		"RecContentType=text/html", 
@@ -17,11 +17,11 @@ Action()
 	lr_start_transaction("2_sendJSON");
 
 	web_submit_data("calculate", 
-		"Action=http://192.168.88.127:8090/calculate", 
+		"Action=http://192.168.13.127:8090/calculate", 
 		"Method=POST", 
 		"TargetFrame=", 
 		"RecContentType=application/json", 
-		"Referer=http://192.168.88.127:8090/", 
+		"Referer=http://192.168.13.127:8090/", 
 		"Snapshot=t25.inf", 
 		"Mode=HTML", 
 		ITEMDATA, 
