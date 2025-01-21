@@ -1,0 +1,13 @@
+[t61]
+FileName1=t61_ExpandedDomainsFilterGlobal.json
+URL1=https://www.bing.com/bloomfilterfiles/ExpandedDomainsFilterGlobal.json
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_61.xml
+RequestHeaderFile=t61_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t61_ResponseHeader.txt
+FileName2=t61_6ca9004c-2afd-40c0-a9b1-4fec460952e5.html
+URL2=http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6ca9004c-2afd-40c0-a9b1-4fec460952e5?P1=1737530766&P2=404&P3=2&P4=abQYH6Md7WQ9XNQW0wIKBBEn7Q9vwq%2fDTNcE7Zyj7LVUdEMItgKFTZ2VmtS%2fVlyYdA%2frozxRvd5mJ9NE4IQQqw%3d%3d
+[ProtocolInfo]
+ProtocolId=QTWeb

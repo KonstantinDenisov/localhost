@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: nginx/1.17.9
+Date: Tue, 14 Jan 2025 22:35:53 GMT
+Content-Type: application/javascript
+Content-Length: 439
+Connection: keep-alive
+Keep-Alive: timeout=5
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=31556952
+Content-Encoding: gzip
+Etag: "6d22a969a7663d95038de220b40ad340"
+Expires: Thu, 15 Jan 2026 04:25:05 GMT
+Last-Modified: Tue, 14 Jan 2025 17:03:39 GMT
+NEL: {"report_to": "network-errors", "max_age": 7200, "success_fraction": 0.001, "failure_fraction": 0.0

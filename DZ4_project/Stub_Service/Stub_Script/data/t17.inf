@@ -1,0 +1,13 @@
+[t17]
+FileName1=t17.json
+URL1=https://edge.microsoft.com/componentupdater/api/v1/update?cup2key=7:fo5wRBmU57GjjQo4KfmWMdu4tl9iY1wqm6DiEHgT2kU&cup2hreq=40c427674fbd2e8b5f1cd3725e2c938f7c6afb1591aa4ece0b415a9ad1ed790b
+Total=2
+RequestHeaderFile=t17_RequestHeader.txt
+RequestBodyFile=t17_RequestBody.txt
+ResponseHeaderFile=t17_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_17.xml
+FileName2=t17_threatListUpdates_fetch.html
+URL2=https://edge.microsoft.com/extensionrevocation/v1/threatListUpdates_fetch?req=ChgKBm1zZWRnZRIOMTMxLjAuMjkwMy4xNDYaGwgBEAgaDTE3MzY3NjE3MDY4MDMiBCABIAIoBCICCAE=&ct=application/x-protobuf&key=d414dd4f9db345fa8003e32adc81b362
+[ProtocolInfo]
+ProtocolId=QTWeb

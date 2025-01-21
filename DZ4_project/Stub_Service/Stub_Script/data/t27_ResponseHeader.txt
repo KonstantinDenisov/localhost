@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 42
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+P3P: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
+Set-Cookie: _EDGE_S=SID=10D788A8E13D67A819B49DDCE06A663A; path=/; HttpOnly,MUIDB=2A03B2E9C94168680E24A697C80969A1; expires=Sun, 08-Feb-2026 22:35:36 GMT; path=/; HttpOnly,SRCHD=AF=NOFORM; expires=Thu, 14-Jan-2027 22:35:36 GMT; path=/; secure; SameSite=None,SRCHUID=V=2&GUID=70D8EDE48C4846B0A714807CBC6AD4C3&dmnchg=1; expires=Thu, 14-Jan-2027 22:35:36 GMT; path=/; secure; SameSite=None,SRCHUSR=DOB=20250114; expires=Thu, 14-Jan-2027 22:35:36 GMT; path=/; secure; SameSite=None,WLS=C=f070a191a34bd5e7&N=Init+Gvd; path=/; secure; SameSite=None,_SS=SID=10D788A8E13D67A819B49DDCE06A663A; path=/; secure; SameSite=None,_U=1OfrEKVmzrJdUCqOyeP3YrY6ZQ7qNi2ucBqw2_aqiCchgNwSUe-F_i4trrE_LXI32CH3FTXeIHRgJMVG7O5DeOszSZ8YYiUPbrs08vpvgiECy8mpojX1_PWeeHYboguLagll3NB737eQJl2mDTa6Ru_KF_FsO_TAe2-tUELrZkk4wNOEGt3naMVK2HrMUCjTXqttPI1brVO6pib-g2A4OGkipKN4-LMuo7DdHn1hnPWE; expires=Tue, 28-Jan-2025 22:35:36 GMT; path=/; secure; SameSite=None,ANON=A=5A2B8DB7CDA5D9D9E95088C2FFFFFFFF; expires=Thu, 14-Jan-2027 22:35:36 GMT; path=/; secure; SameSite=None,MC1=; expires=Thu, 01-Jan-1970 08:00:00 GMT; path=/; secure; SameSite=None,MC1=; expires=Thu, 01-Jan-1970 08:00:00 GMT; path=/; secure; SameSite=None,SRCHD=; expires=Thu, 01-Jan-1970 08:00:00 GMT; path=/; secure; SameSite=None,SRCHD=; expires=Thu, 01-Jan-1970 08:00:00 GMT; path=/; secure; SameSite=None,SRCHUID=; expires=Thu, 01-Jan-1970 08:00:00 GMT; path=/; secure; SameSite=None,SRCHUID=; expires=Thu, 01-Jan-1970 08:00:00 GMT; path=/; secure; SameSite=None,SRCHUSR=; expires=Thu, 01-Jan-1970 08:00:00 GMT; path=/; secure; SameSite=None,SRCHUSR=; expires=Thu, 01-Jan-1970 08:00:00 GMT; path=/; secure; SameSite=None,_U=; expires=Thu, 01-Jan-1970 08:00:00 GMT; path=/; secure; SameSite=None,_U=; expires=Thu, 01-Jan-1970 08:00:00 GMT; path=/; secure; SameSite=None
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: x-ms-client-request-id, x-ms-useragent
+Access-Control-Allow-Methods: GET
+Access-Control-Allow-Origin: https://www.bing.com
+X-EventID: 6786e6b8feb64c5e81883fc93e2e36f2
+UserAgentReductionOptOut: A7kgTC5xdZ2WIVGZEfb1hUoNuvjzOZX3VIV/BA6C18kQOOF50Q0D3oWoAm49k3BQImkujKILc7JmPysWk3CSjwUAAACMeyJvcmlnaW4iOiJodHRwczovL3d3dy5iaW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiU2VuZEZ1bGxVc2VyQWdlbnRBZnRlclJlZHVjdGlvbiIsImV4cGlyeSI6MTY4NDg4NjM5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=
+Content-Security-Policy: script-src https: 'strict-dynamic' 'report-sample' 'wasm-unsafe-eval' 'nonce-zPBSdtovvryG7xDbGw7vU26sHVNsX8TFblWgOalV24o='; base-uri 'self';report-to csp-endpoint
+Report-To: {"group":"csp-endpoint","max_age":86400,"endpoints":[{"url":"https://aefd.nelreports.net/api/report?cat=bingcsp"}]}
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 7A67BE9586554178A7DC2978FCAEE764 Ref B: STOEDGE1506 Ref C: 2025-01-14T22:35:36Z
+Date: Tue, 14 Jan 2025 22:35:35 GMT
+

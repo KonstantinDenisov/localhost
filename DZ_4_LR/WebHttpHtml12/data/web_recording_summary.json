@@ -1,0 +1,668 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "x-search-rpstoken",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-microsoft-update-updater",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-microsoft-update-service-cohort",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-microsoft-update-interactivity",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-microsoft-update-appid",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-http-method-override",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-client-data",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-anchormailbox",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-afs-cv",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-afs-clientinfo",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "update-interactivity",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-mesh-client-webview",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-mesh-client-os-version",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-mesh-client-os",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-mesh-client-edge-version",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-mesh-client-edge-channel",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-mesh-client-arch",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-site",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-mode",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-dest",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "pragma",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "ms-cv",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "if-none-match",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "if-modified-since",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "edgefeatureflags",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "edge-asset-group",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "content-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "cache-control",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "authorization",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": true,
+      "type": "text/xml"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/xml"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/x-protobuf"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/x-chrome-extension"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/octet-stream"
+    },
+    {
+      "IsNonResource": true,
+      "type": "application/json"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 35,
+    "RecordedBrowser": "Chrome",
+    "RecordingDate": "янв-21-2025",
+    "RecordingDuration": 295703,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1737473413,
+    "RecordingType": "Proxy",
+    "TotalBytesReceived": 8553835,
+    "TotalBytesSent": 59188,
+    "TotalRequests": 35,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "office.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "52.98.228.210",
+          "IncludeInScript": true,
+          "Name": "substrate.office.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 250,
+              "EventId": 53,
+              "HttpStatus": 200,
+              "Size": 4438,
+              "URL": "https://substrate.office.com/profileb2/v2.0/me/V1Profile"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "microsoftapp.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "13.107.246.45",
+          "IncludeInScript": true,
+          "Name": "static.edge.microsoftapp.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 85,
+              "HttpStatus": 200,
+              "Size": 493,
+              "URL": "https://static.edge.microsoftapp.net/default/cloud_config_observers.json"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 81,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://static.edge.microsoftapp.net/default/cloud_config_observers.json"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "2&3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "microsoft.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "48.209.144.71",
+          "IncludeInScript": true,
+          "Name": "nav-edge.smartscreen.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 31,
+              "EventId": 4088,
+              "HttpStatus": 200,
+              "Size": 868,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 109,
+              "HttpStatus": 200,
+              "Size": 812,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "151.101.86.172",
+          "IncludeInScript": true,
+          "Name": "msedge.b.tlu.dl.delivery.mp.microsoft.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/x-chrome-extension",
+              "DownloadTime": 0,
+              "EventId": 4092,
+              "HttpStatus": 200,
+              "Size": 4519215,
+              "URL": "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/31b0e7ef-9786-4067-b7e4-13f916b2889c?P1=1737624778&P2=404&P3=2&P4=QhRD5EpBR%2bVzVgwJQLyngO6bQVJM%2bCxcXNagi6rCWWHZ8OM7hwOwYTZIPaEz4ARZBPKYO5HvgzIDajIkKmJo1g%3d%3d"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/x-chrome-extension",
+              "DownloadTime": 0,
+              "EventId": 1011,
+              "HttpStatus": 200,
+              "Size": 3136649,
+              "URL": "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e61597fb-67a0-4811-8277-72d0280614d6?P1=1738031157&P2=404&P3=2&P4=byaPZlqoYwE4Az1BWdSPZjWt9YvClBEV9d9crLIM8g%2fxzhnDk1BHif5lQf9kGdzpPtYTQaCIQTud7yHngp9Ifw%3d%3d"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/x-chrome-extension",
+              "DownloadTime": 0,
+              "EventId": 823,
+              "HttpStatus": 200,
+              "Size": 178278,
+              "URL": "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/373e48c3-3706-457d-9caf-0dd5b5d07c0b?P1=1738052490&P2=404&P3=2&P4=nA3qjCIC9OdSmhOCN47AojrRKkoZq1Ji98zMHV1lOklY50ro3VXzb70XaG%2fFtEGWNtX4Cah2%2bGlWps0OwcoZTQ%3d%3d"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/x-chrome-extension",
+              "DownloadTime": 15,
+              "EventId": 743,
+              "HttpStatus": 200,
+              "Size": 67802,
+              "URL": "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2ed1297e-f6c9-4355-aec4-433ea371b116?P1=1737550049&P2=404&P3=2&P4=N5Te4AE957ahdadX79WdKGqFxJVAUgW10L66lLT35Jcvvcj6Qp8Ha3f%2fmK0f435kyqU1gw6%2fBLuMLhsNXFAYAw%3d%3d"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "40.126.53.24",
+          "IncludeInScript": true,
+          "Name": "graph.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 69,
+              "HttpStatus": 200,
+              "Size": 379,
+              "URL": "https://graph.microsoft.com/beta/me/settings/regionalAndLanguageSettings"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "23.202.118.57",
+          "IncludeInScript": true,
+          "Name": "go.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 0,
+              "EventId": 97,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://go.microsoft.com/fwlink/?linkid=2133855&bucket=69"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "2&3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "13.107.21.239",
+          "IncludeInScript": true,
+          "Name": "edge.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 62,
+              "EventId": 8515,
+              "HttpStatus": 200,
+              "Size": 179,
+              "URL": "https://edge.microsoft.com/componentupdater/api/v1/update"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 8510,
+              "HttpStatus": 200,
+              "Size": 178,
+              "URL": "https://edge.microsoft.com/componentupdater/api/v1/update"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 4079,
+              "HttpStatus": 200,
+              "Size": 181,
+              "URL": "https://edge.microsoft.com/componentupdater/api/v1/update"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-protobuf",
+              "DownloadTime": 0,
+              "EventId": 1007,
+              "HttpStatus": 200,
+              "Size": 519,
+              "URL": "https://edge.microsoft.com/extensionrevocation/v1/threatListUpdates:fetch?req=ChgKBm1zZWRnZRIOMTMxLjAuMjkwMy4xNDYaGwgBEAgaDTE3MzY4OTI3NjcxMTgiBCABIAIoBCICCAE=&ct=application/x-protobuf&key=d414dd4f9db345fa8003e32adc81b362"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 1002,
+              "HttpStatus": 200,
+              "Size": 180,
+              "URL": "https://edge.microsoft.com/componentupdater/api/v1/update"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 819,
+              "HttpStatus": 200,
+              "Size": 264,
+              "URL": "https://edge.microsoft.com/entityextractiontemplates/api/v1/assets/find-assets?name=addressbar_uu_files.global&version=1.*.*&channel=stable&key=d414dd4f9db345fa8003e32adc81b362"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 814,
+              "HttpStatus": 200,
+              "Size": 179,
+              "URL": "https://edge.microsoft.com/componentupdater/api/v1/update"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 114,
+              "HttpStatus": 200,
+              "Size": 20,
+              "URL": "https://edge.microsoft.com/autofillservice/core/page/-2530745438015964489/1399266199340650728"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/xml",
+              "DownloadTime": 0,
+              "EventId": 101,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://edge.microsoft.com/neededge/v1?bucket=69"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 90,
+              "HttpStatus": 200,
+              "Size": 2494,
+              "URL": "https://edge.microsoft.com/componentupdater/api/v1/update?cup2key=7:1_oDeBjLuviC_E24wc0Ry7B6p445R-tIHv2qngOUzos&cup2hreq=a8b0868bc434c0ca56ecef8e3ee9b5d00ffa72221216c83016a4aaba079afafc"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/octet-stream",
+              "DownloadTime": 0,
+              "EventId": 63,
+              "HttpStatus": 200,
+              "Size": 199,
+              "URL": "https://edge.microsoft.com/sync/v1/feeds/me/syncEntities/command/?client=Chromium&client_id=iM%2BDiC14xNRRu2K6XGGa2w%3D%3D"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 56,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://edge.microsoft.com/abusiveadblocking/api/v1/blocklist"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/xml",
+              "DownloadTime": 0,
+              "EventId": 26,
+              "HttpStatus": 200,
+              "Size": 413,
+              "URL": "https://edge.microsoft.com/extensionwebstorebase/v1/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=edgecrx&prodchannel=&prodversion=131.0.2903.146&lang=ru&acceptformat=crx3,puff&x=id%3Djmjflgjpcpepeafmmgdpfkogkghcpiha%26v%3D1.2.1%26installedby%3Dother%26uc"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 31,
+              "EventId": 9,
+              "HttpStatus": 200,
+              "Size": 2714,
+              "URL": "https://edge.microsoft.com/identity/api/v3/msa"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "13.107.21.237",
+          "IncludeInScript": true,
+          "Name": "copilot.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 31,
+              "HttpStatus": 200,
+              "Size": 42,
+              "URL": "https://copilot.microsoft.com/fd/auth/signin?&action=header&provider=windows_live_id&save_token=0"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "bing.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "95.101.133.147",
+          "IncludeInScript": true,
+          "Name": "www.bing.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 119,
+              "HttpStatus": 200,
+              "Size": 635739,
+              "URL": "https://www.bing.com/bloomfilterfiles/ExpandedDomainsFilterGlobal.json"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 312,
+              "EventId": 48,
+              "HttpStatus": 200,
+              "Size": 389,
+              "URL": "https://www.bing.com/api/shopping/v1/user/shoppingsettings"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 41,
+              "HttpStatus": 200,
+              "Size": 81,
+              "URL": "https://www.bing.com/api/shopping/v1/savings/rewards/rewardsUserInfo"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 36,
+              "HttpStatus": 200,
+              "Size": 389,
+              "URL": "https://www.bing.com/api/shopping/v1/user/shoppingsettings"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 21,
+              "HttpStatus": 200,
+              "Size": 42,
+              "URL": "https://www.bing.com/fd/auth/signin?&action=header&provider=windows_live_id&save_token=0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 16,
+              "HttpStatus": 200,
+              "Size": 81,
+              "URL": "https://www.bing.com/api/shopping/v1/savings/rewards/rewardsUserInfo"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "azureedge.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "13.107.246.45",
+          "IncludeInScript": true,
+          "Name": "edge-consumer-static.azureedge.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 76,
+              "HttpStatus": 200,
+              "Size": 101,
+              "URL": "https://edge-consumer-static.azureedge.net/mouse-gesture/config.json"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "192.168.88.127",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "192.168.88.127",
+          "IncludeInScript": true,
+          "Name": "192.168.88.127",
+          "Port": 8090,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 4083,
+              "HttpStatus": 200,
+              "Size": 38,
+              "URL": "http://192.168.88.127:8090/calculate"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 104,
+              "HttpStatus": 200,
+              "Size": 479,
+              "URL": "http://192.168.88.127:8090/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 0
+}

@@ -1,0 +1,18 @@
+GET https://copilot.microsoft.com/fd/auth/signin?&action=header&provider=windows_live_id&save_token=0 HTTP/1.1
+X-Search-RPSToken: t=EwDYAqyMBAAUWkziSC7RbDJKS1VkhugDegv7L0eAAEwX1HiHI5YPEMQ3YveKf4uXkWSnzvc2+TQ+E+fLk+wVQfPmH9DxRKNDs1C0OZk+eb7HR+n8Qt8gP5Xf7fHGC42/GzAc2tnlVXlOOIkxrfugQvfpPw8NkGwWuJz8jAgovteltK0NO0HGStXKwC3bDm8b7I95K692kn6RZsJXcxseEGYAABAYG2M/KDH5438wHCvhDFGCIAKbgM4ZyKFO2LMdB44Q9DO/jrDZBkPi8u4JmAMyn9Mn0TSuoqebfS7ILDq14v8LkEfGhL6iK0WMlqEG0RtPE7lWXBeEGL9pqcdWRroSlyDbq3Vy/lEpXeTwJxlzaRPt9ZokEatmjmXc/EHEmQ00GF/lfTVqPnKY81p1xjP1KlLdHkow0ZsoC1Fgm9fUblLtZ59SzQEDpKDiC73wdxStNMqjhet0KgtJQApvMdzIJrLt15n50QioSLInmDO8ahw2xLl25TnZMpxZ8rrQWdPpeDSI8JlMBtEj6KvJw+NAGiGaUpREIVmhxS9njSncYGtrtRy9s4KJv14bAIrnWGQPyGcPFWqQNX2Wv6MhRHhg9Z/UtYA2SCAFZpVyhcfxSXUtTPARu2ZcKnxxuyQNVhjDx6xeXhEp8+kgGUa0C2BCA0jJaVBUCAn2OgEbkwYtNL6l2+05ElW844TRBeA1YjBEsc0Zdbi1mW5nHitK0IKpGn505VcSS+rpFbCoB+1UMCqFFNtguLahNuVyc9VE6b8YCM8abv881S7AdjQEYc3s/4CvWIEJ5rld4s2EomiRYAGxWN5RuBvCAumuHvzhxKEw2+lUy3xjEjfIUzrpWenaJ32oJeATCPf2umvRhINfEClaZMr1048M4dLR9qSR3VLahIWV8inUoEj8c6vQ/JVSYMjciZllOlBI0N+cWwnOt1eeEpUiWlA5iNkQ4dn9A3Svcs+pVQI=&p=
+Sec-Mesh-Client-Edge-Version: 131.0.2903.146
+Sec-Mesh-Client-Edge-Channel: stable
+Sec-Mesh-Client-OS: Windows
+Sec-Mesh-Client-OS-Version: 10.0.22631
+Sec-Mesh-Client-Arch: x86_64
+Sec-Mesh-Client-WebView: 0
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+Accept-Encoding: gzip, deflate, zstd
+Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Cookie: MUID=2A03B2E9C94168680E24A697C80969A1; MUIDB=2A03B2E9C94168680E24A697C80969A1; _EDGE_V=1; ANON=A=5A2B8DB7CDA5D9D9E95088C2FFFFFFFF; MC1=GUID=2ab107e5603b40cda1b3d4f0a084fa59&HASH=2ab1&LV=202412&V=4&LU=1735060924571
+Host: copilot.microsoft.com
+Connection: Keep-Alive
+

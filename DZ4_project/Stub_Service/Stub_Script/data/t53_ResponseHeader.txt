@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Content-Type: application/octet-stream
+Content-Encoding: gzip
+Vary: Accept-Encoding
+mise-correlation-id: cf64505d-7f06-486e-af2c-31346a2f6061
+MS-CV: SkKaYDf+UJNI6ZoqYtvp4r.0
+X-AFS-Tracking: cV=SkKaYDf+UJNI6ZoqYtvp4r.0;server=akswtt00400000v;cloudType=Consumer;environment=Prod_westeurope_prod-s01-079-eur-westeurope;migrationStage=NotStarted
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 75C2D23D38C848DD8B624E4159777E25 Ref B: STOEDGE1616 Ref C: 2025-01-15T18:12:26Z
+Date: Wed, 15 Jan 2025 18:12:26 GMT
+

@@ -1,0 +1,13 @@
+[t1]
+SnapshotXmlFile=snapshot_1.xml
+ContentType=text/html
+StepName=Url: 192.168.88.127:8090
+Total=1
+FileName1=t1.html
+RequestHeaderFile=t1_RequestHeader.txt
+ResponseHeaderFile=t1_ResponseHeader.txt
+RawStepEndTime=1737473860278
+RawStepName=192.168.88.127:8090
+RequestBodyFile=t1_RequestBody.txt
+RawStepStartTime=1737473859825
+URL1=http://192.168.88.127:8090/

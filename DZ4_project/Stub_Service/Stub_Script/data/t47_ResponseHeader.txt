@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; odata.metadata=minimal; odata.streaming=true; charset=utf-8
+Server: Microsoft-HTTPAPI/2.0
+X-BEServer: SN6PR01MB4446
+X-NanoProxy: 1,1
+Request-Id: cd52d254-49d6-d36a-f7b9-82df546ffa54
+X-CalculatedFETarget: SA9PR11CU001.internal.outlook.com
+MS-CV: VNJSzdZJatP3uYLfVG/6VA.1.1
+OData-Version: 4.0
+X-BackEndHttpStatus: 200,200
+X-BEPartition: CLPRODSAT00
+X-BeSku: WCS5
+X-CalculatedBETarget: SN6PR01MB4446.prod.exchangelabs.com
+X-Content-Type-Options: nosniff
+X-End2EndLatencyMs: 114
+X-FEEFZInfo: SAT
+X-FEProxyInfo: SA9PR11CA0006
+X-FEServer: GV3P280CA0020
+X-MicroserviceVersion: 3.0.873.0
+x-ms-appId: 000000004835BC29
+X-Proxy-BackendServerStatus: 200
+X-Proxy-RoutingCorrectness: 1
+X-FirstHopCafeEFZ: GVX
+Alt-Svc: h3=":443";ma=2592000,h3-29=":443";ma=2592000
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Date: Wed, 15 Jan 2025 18:12:05 GMT
+

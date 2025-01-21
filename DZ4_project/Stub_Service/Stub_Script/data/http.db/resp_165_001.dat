@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: nginx/1.17.9
+Date: Tue, 14 Jan 2025 22:35:53 GMT
+Content-Type: application/javascript
+Content-Length: 489
+Connection: keep-alive
+Keep-Alive: timeout=5
+Etag: "ca17cd57eb5a24805fe06a598497933a"
+Report-To: { "group": "network-errors", "max_age": 7200, "endpoints": [ { "url": "https://dr.yandex.net/nel"}]}
+Stric

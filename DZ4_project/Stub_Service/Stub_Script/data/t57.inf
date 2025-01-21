@@ -1,0 +1,11 @@
+[t57]
+FileName1=t57.json
+URL1=https://edge.microsoft.com/componentupdater/api/v1/update?cup2key=7:j0pAVh6pXxE5gbBv91e4CGdsAQv-DjMwaJYbJ0mkCyQ&cup2hreq=0546b0a0acb33c713dab077ad6915e4e27356f66e9863d75664387641b75a884
+Total=1
+RequestHeaderFile=t57_RequestHeader.txt
+RequestBodyFile=t57_RequestBody.txt
+ResponseHeaderFile=t57_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_57.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

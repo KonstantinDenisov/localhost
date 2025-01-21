@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Content-Length: 635651
+Content-Type: application/json
+Last-Modified: Wed, 15 Jan 2025 15:52:57 GMT
+ETag: 0x8DD357CAE40630C
+x-ms-request-id: 4f39b8a1-b01e-0080-6f77-67e366000000
+x-ms-version: 2009-09-19
+x-ms-lease-status: unlocked
+x-ms-blob-type: BlockBlob
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: B969DA91D5D948E88A1FBB4E039E89B1 Ref B: STOEDGE0917 Ref C: 2025-01-15T18:27:06Z
+Date: Wed, 15 Jan 2025 18:27:06 GMT
+Connection: keep-alive
+Alt-Svc: h3=":443"; ma=93600
+X-CDN-TraceID: 0.a485655f.1736965626.1afbfa0
+

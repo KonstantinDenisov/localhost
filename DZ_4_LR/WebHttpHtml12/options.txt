@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\masha\OneDrive\ƒокументы\VuGen\Scripts\WebHttpHtml12
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\masha\onedrive\документы\vugen\scripts\webhttphtml12\\logfile.log
+c:\users\masha\onedrive\документы\vugen\scripts\webhttphtml12\\combined_WebHttpHtml12.c
+c:\users\masha\onedrive\документы\vugen\scripts\webhttphtml12\\pre_cci.c

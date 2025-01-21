@@ -1,0 +1,18 @@
+GET https://copilot.microsoft.com/fd/auth/signin?&action=header&provider=windows_live_id&save_token=0 HTTP/1.1
+X-Search-RPSToken: t=EwDYAqyMBAAUWkziSC7RbDJKS1VkhugDegv7L0eAAGmUUQsISDf6ggIvH8uT+ewBulJ+Tvr4yyRBFxQPcqbvVdwPM/9RcW43SWAgwafpCROZ6BH+eE6aqF0aAuy9cKHkc1yf5w8hu/Jgk4A7aCeikiQAriay1ZDKUApSF2KVywskOI8XR5IKyOQxnXI4v7+NlqaDyeRGCX4Q1cJLaIalEGYAABDsoUO+uqAVjEJ/HzEaOOViIAJZJalYMLhH/7NdaSEOiAG5nZdxG1LHePzK3neSnTXLdpPUO5TIKMDoaz2L8KW0Z55xHe6nKniDbImgwgdXk3LgQRLrH3CdGaq6wL4Sf97RR4gUxXKSO10/4uNTkdTokl9ow+xeC3OddhanrvBE66I6zOF6tRErW/KSzkXKS2cz2yuM1mnSFgB8xmEDkXbsmYks3OtPUkknbnLKH/txBDgOxwnrUti2cIHA6lDs2ePQnvPkxvp+YtKaSHXW9FmK7nIyCUftJUiUfYFqoWRcOLdw+50LKEiWEJqYdzIW9Y5w1Ml/o7gPYgQCLbn7EIbj/k1s1D6UdjfGvWslBB871YZdr5hyDSKwp3ARsZ9FWYMLqAam0ZuJEGvV+mODjTS2+btKpG8ChWvy5rKAyNwzxKg4QBNnGCuGl5/CHd6pccHm7w4YDAPis0A3QLkRGQA85+j+yuNS7p2mrUA/uQAf2RC+DW6XQyr99Gk3YEyv6ubWBu3EAaOZUjBWlaoGkcMUPKRXR7H+ESdRnG3yvuB6FSEcjO/G8QeFr7HxdMvSjnZxoGiiZkM8c5fPPrkbY4kLCX+7bvPA3vI4RXeM01in6RYS4kpe3XM8y3wsQd434Oi/ne5GtShaD07rdvkWsPgVCY4h+PwWQdyOgYvl8GtvqFUb2QxDx8vz116InnNuKolXJFc/lYg41oaiqYIKKbhKq/6b4AD+pHOiHBW+JzZC4sHsVQI=&p=
+Sec-Mesh-Client-Edge-Version: 131.0.2903.146
+Sec-Mesh-Client-Edge-Channel: stable
+Sec-Mesh-Client-OS: Windows
+Sec-Mesh-Client-OS-Version: 10.0.22631
+Sec-Mesh-Client-Arch: x86_64
+Sec-Mesh-Client-WebView: 0
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+Accept-Encoding: gzip, deflate, zstd
+Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Cookie: MUID=2A03B2E9C94168680E24A697C80969A1; MUIDB=2A03B2E9C94168680E24A697C80969A1; _EDGE_V=1; ANON=A=5A2B8DB7CDA5D9D9E95088C2FFFFFFFF; MC1=GUID=2ab107e5603b40cda1b3d4f0a084fa59&HASH=2ab1&LV=202412&V=4&LU=1735060924571; SRCHD=AF=NOFORM; SRCHUID=V=2&GUID=2D8BBE6C46D84A6985611B58F2FC51AF&dmnchg=1; SRCHUSR=DOB=20250115; _U=1e7mu8fN02fqqjvdwG9PJt11MLVbau8rDqpF9JGykkv1IFkr3GPceyGvLM7Htds50JxPzyqimmKvgV1Qbtv2a6SrFg-D6LwIp2OxK-CudMhp0EI2BBEzI_oYERwIDZLYkJTY0Q3QTt2qfFuE7y1Iy3h8lttgb9X2bQbfmvgI_zDgP03x6cuz0KOZJDYu69gdKb-tYeP9c8bj0r6KUJD3ov3aWI1xD48R6U_m95MZao6w
+Host: copilot.microsoft.com
+Connection: Keep-Alive
+

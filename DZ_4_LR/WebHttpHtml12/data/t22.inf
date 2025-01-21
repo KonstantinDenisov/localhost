@@ -1,0 +1,13 @@
+[t22]
+FileName1=t22_find-assets.json
+URL1=https://edge.microsoft.com/entityextractiontemplates/api/v1/assets/find-assets?name=addressbar_uu_files.global&version=1.*.*&channel=stable&key=d414dd4f9db345fa8003e32adc81b362
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_22.xml
+RequestHeaderFile=t22_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t22_ResponseHeader.txt
+FileName2=t22_373e48c3-3706-457d-9caf-0dd5b5d07c0b.html
+URL2=http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/373e48c3-3706-457d-9caf-0dd5b5d07c0b?P1=1738052490&P2=404&P3=2&P4=nA3qjCIC9OdSmhOCN47AojrRKkoZq1Ji98zMHV1lOklY50ro3VXzb70XaG%2fFtEGWNtX4Cah2%2bGlWps0OwcoZTQ%3d%3d
+[ProtocolInfo]
+ProtocolId=QTWeb

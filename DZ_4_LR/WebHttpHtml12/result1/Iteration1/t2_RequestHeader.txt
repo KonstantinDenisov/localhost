@@ -1,0 +1,11 @@
+POST /calculate HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: http://192.168.88.127:8090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+Accept-Encoding: gzip, deflate, zstd
+Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Accept: */*
+Connection: Keep-Alive
+Host: 192.168.88.127:8090
+Content-Length: 7
+

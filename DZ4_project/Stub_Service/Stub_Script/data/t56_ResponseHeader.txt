@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 15 Jan 2025 18:12:56 GMT
+Content-Type: application/json
+Content-Length: 493
+Connection: keep-alive
+Content-MD5: F6w57fkyebKphlqtq/AZZA==
+Last-Modified: Tue, 14 Jan 2025 10:21:20 GMT
+ETag: 0x8DD348530B72D86
+x-ms-request-id: 81f33229-001e-002b-3cd9-66eeda000000
+x-ms-version: 2009-09-19
+x-ms-lease-status: unlocked
+x-ms-blob-type: BlockBlob
+x-azure-ref: 20250115T181256Z-1568557fbbchvxmnhC1STOvgb400000002a000000000dfrn
+x-fd-int-roxy-purgeid: 82294891
+X-Cache: TCP_HIT
+Accept-Ranges: bytes
+

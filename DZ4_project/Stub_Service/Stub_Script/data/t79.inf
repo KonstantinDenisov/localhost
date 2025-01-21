@@ -1,0 +1,13 @@
+[t79]
+FileName1=t79.json
+URL1=https://edge.microsoft.com/componentupdater/api/v1/update?cup2key=7:PjXRWsNFltyOMp1uyhkTWwbJBnGQdQsowrpB_BnP2DY&cup2hreq=1c3482d19436d32674735ba0058113a5818e43e133742dbc93388aaa7ea2dac0
+Total=2
+RequestHeaderFile=t79_RequestHeader.txt
+RequestBodyFile=t79_RequestBody.txt
+ResponseHeaderFile=t79_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_79.xml
+FileName2=t79_2ed1297e-f6c9-4355-aec4-433ea371b116.html
+URL2=http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2ed1297e-f6c9-4355-aec4-433ea371b116?P1=1737535591&P2=404&P3=2&P4=KOmG4C2YSMckFy3uFmoR%2b8pMYpCi%2bEzDD3ERe9EJSuRYd0bXkh1N0zKJzwTyIRsL87ylWlf%2b0nw9oRKHQCb5uQ%3d%3d
+[ProtocolInfo]
+ProtocolId=QTWeb

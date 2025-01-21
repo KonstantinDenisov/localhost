@@ -1,0 +1,6 @@
+[t51]
+FileName1=t51_blocklist.json
+URL1=https://edge.microsoft.com/abusiveadblocking/api/v1/blocklist
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_51.xml

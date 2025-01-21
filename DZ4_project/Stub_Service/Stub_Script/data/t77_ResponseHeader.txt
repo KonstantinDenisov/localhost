@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 15 Jan 2025 18:24:02 GMT
+Content-Type: application/json
+Content-Length: 101
+Connection: keep-alive
+Last-Modified: Tue, 24 Oct 2023 08:27:00 GMT
+ETag: 0x8DBD46AFE482320
+x-ms-request-id: c6f9ff1e-c01e-002d-374f-660104000000
+x-ms-version: 2009-09-19
+x-ms-lease-status: unlocked
+x-ms-blob-type: BlockBlob
+x-azure-ref: 20250115T182402Z-17db9bd77b4xgjmwhC1STOaar4000000044g00000000aggn
+Cache-Control: public, max-age=432000
+x-fd-int-roxy-purgeid: 82294891
+X-Cache: TCP_HIT
+Accept-Ranges: bytes
+

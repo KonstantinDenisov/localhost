@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 42
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+P3P: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
+Set-Cookie: _EDGE_S=SID=1C46A008953A6E8C1D29B57C946D6FA9; path=/; HttpOnly,MUIDB=2A03B2E9C94168680E24A697C80969A1; expires=Sun, 08-Feb-2026 22:29:53 GMT; path=/; HttpOnly,SRCHD=AF=NOFORM; expires=Thu, 14-Jan-2027 22:29:53 GMT; path=/; secure; SameSite=None,SRCHUID=V=2&GUID=60CE68930D8E46BBA371E7E1E959B8D9&dmnchg=1; expires=Thu, 14-Jan-2027 22:29:53 GMT; path=/; secure; SameSite=None,SRCHUSR=DOB=20250114; expires=Thu, 14-Jan-2027 22:29:53 GMT; path=/; secure; SameSite=None,WLS=C=f070a191a34bd5e7&N=Init+Gvd; path=/; secure; SameSite=None,_SS=SID=1C46A008953A6E8C1D29B57C946D6FA9; path=/; secure; SameSite=None,_U=1YPSEJgmZD2Sy-E2SuzGfPY2rTN2PreMQ0MkNlHn6-Z9e_2l0fCur4ShjVTabaWWfiMe9WPLPHilLm7Ipwg72lXJ6WrLpEpq1oaylQzxPBORw0Rwv6WGW3YoaIM_zqABwkeHOcFhSDsnAEFCrdhJIGp29UuJBshJX1y-BGwak0GM7D9Ygh3RKm0RGToB8zgY5i7AKR0nJP2wJ64aYHtvZROH8Rr5hW-u2rSiqg151Ivk; expires=Tue, 28-Jan-2025 22:29:53 GMT; path=/; secure; SameSite=None,ANON=A=5A2B8DB7CDA5D9D9E95088C2FFFFFFFF; expires=Thu, 14-Jan-2027 22:29:53 GMT; path=/; secure; SameSite=None,MC1=; expires=Thu, 01-Jan-1970 08:00:00 GMT; path=/; secure; SameSite=None,MC1=; expires=Thu, 01-Jan-1970 08:00:00 GMT; path=/; secure; SameSite=None
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: x-ms-client-request-id, x-ms-useragent
+Access-Control-Allow-Methods: GET
+Access-Control-Allow-Origin: https://www.bing.com
+X-EventID: 6786e561c5d743158efb93da5ce19253
+UserAgentReductionOptOut: A7kgTC5xdZ2WIVGZEfb1hUoNuvjzOZX3VIV/BA6C18kQOOF50Q0D3oWoAm49k3BQImkujKILc7JmPysWk3CSjwUAAACMeyJvcmlnaW4iOiJodHRwczovL3d3dy5iaW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiU2VuZEZ1bGxVc2VyQWdlbnRBZnRlclJlZHVjdGlvbiIsImV4cGlyeSI6MTY4NDg4NjM5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=
+Content-Security-Policy: script-src https: 'strict-dynamic' 'report-sample' 'wasm-unsafe-eval' 'nonce-td8t3gY4nZPgcO7nrcOAeSWwxpWk9j5G4fetWn4KFyA='; base-uri 'self';report-to csp-endpoint
+Report-To: {"group":"csp-endpoint","max_age":86400,"endpoints":[{"url":"https://aefd.nelreports.net/api/report?cat=bingcsp"}]}
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 225B2D412F5A43CFB39EE8FFD9C3A193 Ref B: STOEDGE1609 Ref C: 2025-01-14T22:29:53Z
+Date: Tue, 14 Jan 2025 22:29:52 GMT
+

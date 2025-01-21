@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Content-Type: application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=false;charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+request-id: 8fd6e1c0-09ee-4973-abd0-2736a6381407
+client-request-id: 8fd6e1c0-09ee-4973-abd0-2736a6381407
+x-ms-ags-diagnostic: {"ServerInfo":{"DataCenter":"Sweden Central","Slice":"E","Ring":"3","ScaleUnit":"001","RoleInstance":"GV2PEPF00000EA6"}}
+X-Content-Type-Options: nosniff
+OData-Version: 4.0
+Date: Wed, 15 Jan 2025 18:12:31 GMT
+
