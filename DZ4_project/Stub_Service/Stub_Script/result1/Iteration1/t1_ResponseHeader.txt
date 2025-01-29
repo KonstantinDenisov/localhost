@@ -1,8 +1,0 @@
-HTTP/1.1 200 
-Content-Type: text/html;charset=UTF-8
-Content-Language: ru
-Transfer-Encoding: chunked
-Date: Wed, 15 Jan 2025 18:31:17 GMT
-Keep-Alive: timeout=60
-Connection: keep-alive
-

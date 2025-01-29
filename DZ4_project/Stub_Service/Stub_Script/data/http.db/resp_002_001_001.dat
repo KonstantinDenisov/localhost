@@ -1,6 +1,0 @@
-HTTP/1.1 200 OK
-Cache-Control: max-age=0, no-cache, no-store, must-revalidate
-Content-Length: 3738
-Content-Type: application/json
-X-Content-Type-Options: nosniff
-X-Cache: CONFIG_NOCAC
