@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<HTTPSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="1">
-  <HTTPTask id="1" url="http://192.168.13.127:8090/" origin="Primary" startDateTime="2025-01-21T20:46:44.691+03:00" startTime="211">
-    <HTTPRequest method="GET" />
-  </HTTPTask>
-</HTTPSnapshot>

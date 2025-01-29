@@ -1,9 +1,0 @@
--+
--DCCI
--D_IDA_XL
--DWINNT
--IE:\Банк\ДЗ\4\rep\DZ_4_LR\WebHttpHtml12
--IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ee:\банк\дз\4\rep\dz_4_lr\webhttphtml12\\logfile.log
-e:\банк\дз\4\rep\dz_4_lr\webhttphtml12\\combined_WebHttpHtml12.c
-e:\банк\дз\4\rep\dz_4_lr\webhttphtml12\\pre_cci.c

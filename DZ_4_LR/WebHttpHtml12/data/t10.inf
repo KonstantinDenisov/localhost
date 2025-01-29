@@ -1,6 +1,0 @@
-[t10]
-FileName1=t10_blocklist.json
-URL1=https://edge.microsoft.com/abusiveadblocking/api/v1/blocklist
-Total=1
-ContentType=application/json
-SnapshotXmlFile=snapshot_10.xml
